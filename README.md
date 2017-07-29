@@ -3,8 +3,8 @@
 This is the repository for digital assets related to the Open Journals.
 
 - Open Journals
-- The Journal of Open Source Software
-- The Journal of Open Source Education
+- [The Journal of Open Source Software](http://joss.theoj.org)
+- [The Journal of Open Source Education](http://jose.theoj.org)
 
 ## Usage
 
