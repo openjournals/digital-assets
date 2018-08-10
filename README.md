@@ -8,4 +8,5 @@ This is the repository for digital assets related to the Open Journals.
 
 ## Usage
 
-Please feel free to use these logos to link to Open Journals, JOSS or any of our other journals. Please don't modify these logos, e.g. change dimensions, colours, or add new words.
+The files in this repository are shared under a CC-BY-4.0 license (see the [LICENSE](https://github.com/openjournals/digital-assets/blob/master/LICENSE.txt) file for more details).
+Please feel free to use these logos to link to Open Journals, JOSS, or any of our other journals.
